@@ -1,0 +1,988 @@
+{
+    "AF": {
+        "name": "Afghanistan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AL": {
+        "name": "Albania",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DZ": {
+        "name": "Algeria",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "WS": {
+        "name": "Samoa",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AD": {
+        "name": "Andorra",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AO": {
+        "name": "Angola",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AI": {
+        "name": "Anguilla",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AR": {
+        "name": "Argentina",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AM": {
+        "name": "Armenia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AW": {
+        "name": "Aruba",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AU": {
+        "name": "Australia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AT": {
+        "name": "Austria",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BS": {
+        "name": "Bahamas",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BH": {
+        "name": "Bahrain",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BB": {
+        "name": "Barbados",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BY": {
+        "name": "Belarus",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BE": {
+        "name": "Belgium",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BZ": {
+        "name": "Belize",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BJ": {
+        "name": "Benin",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BM": {
+        "name": "Bermuda",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BT": {
+        "name": "Bhutan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BO": {
+        "name": "Bolivia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovnia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BW": {
+        "name": "Botswana",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BR": {
+        "name": "Brazil",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BN": {
+        "name": "Brunei",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "BI": {
+        "name": "Burundi",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CV": {
+        "name": "Cabo Verde",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KH": {
+        "name": "Cambodia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CM": {
+        "name": "Cameroon",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CA": {
+        "name": "Canada",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TD": {
+        "name": "Chad",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CL": {
+        "name": "Chile",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CN": {
+        "name": "China",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CO": {
+        "name": "Colombia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KM": {
+        "name": "Comoros",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CD": {
+        "name": "Democratic Republic of the Congo",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CG": {
+        "name": "Congo",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "HR": {
+        "name": "Croatia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CU": {
+        "name": "Cuba",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CY": {
+        "name": "Cyprus",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CZ": {
+        "name": "Czechia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CI": {
+        "name": "Cote d'Ivoire",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DK": {
+        "name": "Denmark",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DM": {
+        "name": "Dominica",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DO": {
+        "name": "Domincan Republic",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "EC": {
+        "name": "Ecuador",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "EG": {
+        "name": "Egypt",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SV": {
+        "name": "El Salvador",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ER": {
+        "name": "Eritrea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "EE": {
+        "name": "Estonia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "FJ": {
+        "name": "Fiji",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "FI": {
+        "name": "Finland",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "FR": {
+        "name": "France",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GA": {
+        "name": "Gabon",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GM": {
+        "name": "Gambia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GE": {
+        "name": "Georgia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "DE": {
+        "name": "Germany",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GH": {
+        "name": "Ghana",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GR": {
+        "name": "Greece",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GD": {
+        "name": "Grenada",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GT": {
+        "name": "Guatemala",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GN": {
+        "name": "Guinea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GY": {
+        "name": "Guyana",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "HT": {
+        "name": "Haiti",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "HN": {
+        "name": "Honduras",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "HU": {
+        "name": "Hungary",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IS": {
+        "name": "Iceland",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IN": {
+        "name": "India",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ID": {
+        "name": "Indonesia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IR": {
+        "name": "Iran",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IQ": {
+        "name": "Iraq",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IE": {
+        "name": "Ireland",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IL": {
+        "name": "Israel",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "IT": {
+        "name": "Italy",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "JM": {
+        "name": "Jamaica",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "JP": {
+        "name": "Japan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "JO": {
+        "name": "Jordan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KE": {
+        "name": "Kenya",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KI": {
+        "name": "Kiribati",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KP": {
+        "name": "North Korea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KR": {
+        "name": "South Korea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KW": {
+        "name": "Kuwait",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LA": {
+        "name": "Laos",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LV": {
+        "name": "Latvia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LB": {
+        "name": "Lebanon",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LS": {
+        "name": "Lesotho",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LR": {
+        "name": "Liberia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LY": {
+        "name": "Libya",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LT": {
+        "name": "Lithuania",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MG": {
+        "name": "Madagascar",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MW": {
+        "name": "Malawi",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MY": {
+        "name": "Malaysia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MV": {
+        "name": "Maldives",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ML": {
+        "name": "Mali",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MT": {
+        "name": "Malta",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MR": {
+        "name": "Mauritania",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MU": {
+        "name": "Mauritius",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MX": {
+        "name": "Mexico",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "FM": {
+        "name": "Micronesia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MD": {
+        "name": "Moldova",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MC": {
+        "name": "Monaco",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MN": {
+        "name": "Mongolia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ME": {
+        "name": "Montenegro",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MA": {
+        "name": "Morocco",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MM": {
+        "name": "Myanmar",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NA": {
+        "name": "Namibia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NR": {
+        "name": "Nauru",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NP": {
+        "name": "Nepal",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NL": {
+        "name": "Netherlands",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NE": {
+        "name": "Niger",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NG": {
+        "name": "Nigeria",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "MK": {
+        "name": "North Macedonia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "NO": {
+        "name": "Norway",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "OM": {
+        "name": "Oman",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PK": {
+        "name": "Pakistan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PW": {
+        "name": "Palau",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PS": {
+        "name": "Palestine",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PA": {
+        "name": "Panama",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PY": {
+        "name": "Paraguay",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PE": {
+        "name": "Peru",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PH": {
+        "name": "Philippines",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PL": {
+        "name": "Poland",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "PT": {
+        "name": "Portugal",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "QA": {
+        "name": "Qatar",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "RO": {
+        "name": "Romania",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "RU": {
+        "name": "Russia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "RW": {
+        "name": "Rwanda",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "VC": {
+        "name": "Saint-Vincent and the Grenadines",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SM": {
+        "name": "San Marino",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SN": {
+        "name": "Senegal",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "RS": {
+        "name": "Serbia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SC": {
+        "name": "Seychelles",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SL": {
+        "name": "Sierra Leonne",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SG": {
+        "name": "Singapore",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SK": {
+        "name": "Slovakia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SO": {
+        "name": "Somalia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ZA": {
+        "name": "South Africa",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SS": {
+        "name": "South Sudan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ES": {
+        "name": "Spain",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SD": {
+        "name": "Sudan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SR": {
+        "name": "Suriname",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SE": {
+        "name": "Sweden",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "CH": {
+        "name": "Switzerland",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "SY": {
+        "name": "Syria",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TW": {
+        "name": "Taiwan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TZ": {
+        "name": "Tanzania",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TH": {
+        "name": "Thailand",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TG": {
+        "name": "Togo",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TO": {
+        "name": "Tonga",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TN": {
+        "name": "Tunisia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "TR": {
+        "name": "Turkey",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "UG": {
+        "name": "Uganda",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "UA": {
+        "name": "Ukraine",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "US": {
+        "name": "United States",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "UY": {
+        "name": "Uruguay",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "VE": {
+        "name": "Venezuala",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "VN": {
+        "name": "Vietnam",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "YE": {
+        "name": "Yemen",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ZM": {
+        "name": "Zambia",
+        "neighbors": {},
+        "fill-color": ""
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "neighbors": {},
+        "fill-color": ""
+    }
+
+}
