@@ -44,11 +44,6 @@
         "neighbors": {},
         "fill-color": ""
     },
-    "AW": {
-        "name": "Aruba",
-        "neighbors": {},
-        "fill-color": ""
-    },
     "AU": {
         "name": "Australia",
         "neighbors": {},
@@ -101,11 +96,6 @@
     },
     "BJ": {
         "name": "Benin",
-        "neighbors": {},
-        "fill-color": ""
-    },
-    "BM": {
-        "name": "Bermuda",
         "neighbors": {},
         "fill-color": ""
     },
