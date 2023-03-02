@@ -1,12 +1,13 @@
 import './App.css';
 import countriesData from "./data/countries.json"
-// import WorldMap from "./assets/wrld-22.svg"
 import WorldMap from './components/WorldMap';
 
 function App() {
-  // console.log(`countriesData: ${countriesData}`);
-  // console.log(`countriesData length: ${Object.keys(countriesData).length}`);
+
   const countryCodes = Object.keys(countriesData);
+  const countryCodesSet = new Set(countryCodes)
+  console.log(`object: ${countryCodes.length}`)
+  console.log(`set: ${countryCodesSet.size}`)
 
   const chooseStartCountry = () => {
     const randomIndex = Math.floor(Math.random() * 197);
@@ -43,7 +44,7 @@ function App() {
   return (
     <div className="App">
       <h1>Learn the World Map</h1>
-      <WorldMap className="world"></WorldMap>
+      <WorldMap className="world"/>
     </div>
   );
 }

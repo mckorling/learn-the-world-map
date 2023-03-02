@@ -1,4 +1,6 @@
 import * as React from "react"
+import "../App.css"
+
 const WorldMap = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -6,11 +8,11 @@ const WorldMap = () => (
     style={{ enableBackground: "new 0 0 800 600" }}
     xmlSpace="preserve"
   >
-    <style>
+    {/* <style>
       {
         ".st2{fill:transparent}.st3,.st4,.st5,.st6,.st7,.st8{fill:#fbd165;stroke:gray;stroke-width:.25;stroke-linecap:round;stroke-linejoin:round}.st4,.st5,.st6,.st7,.st8{fill:#89b8e4}.st5,.st6,.st7,.st8{fill:#f8a758}.st6,.st7,.st8{fill:#bace6b}.st7,.st8{fill:#e89bbd}.st8{fill:#8ec79a}.st2{fill:transparent;}\n\t.st3{fill:#FBD165;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st4{fill:#89B8E4;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st5{fill:#F8A758;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st6{fill:#BACE6B;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st7{fill:#E89BBD;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st8{fill:#8EC79A;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}\n\t.st9{font-family:'Roboto-Regular';}\n\t.st10{font-size:12px;}"
       }
-    </style>
+    </style> */}
     {/* <path style={{ fill: "transparent" }} d="M0 0h800v600H0z" id="Water" /> */}
     <g id="Countries">
       <path
@@ -871,13 +873,13 @@ const WorldMap = () => (
         d="M241.892 311.546h.24l-.002.052-.023.058-.144-.049-.073-.051.002-.01z"
       />
     </g>
-    <text
+    {/* <text
       transform="translate(688.55 577.007)"
       style={{ fontSize: 12, fontFamily: "'Roboto-Regular'" }}
       id="Copyright"
     >
       {"\xA9 Vemaps.com"}
-    </text>
+    </text> */}
   </svg>
 )
 export default WorldMap

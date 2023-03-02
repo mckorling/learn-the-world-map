@@ -29,11 +29,6 @@
         "neighbors": {},
         "fill-color": ""
     },
-    "AI": {
-        "name": "Anguilla",
-        "neighbors": ["CL", "BO", "PY", "BR", "UY"],
-        "fill-color": ""
-    },
     "AG": {
         "name": "Antigua and Barbuda",
         "neighbors": {},
@@ -41,7 +36,7 @@
     },
     "AR": {
         "name": "Argentina",
-        "neighbors": {},
+        "neighbors": ["CL", "BO", "PY", "BR", "UY"],
         "fill-color": ""
     },
     "AM": {
@@ -474,6 +469,11 @@
         "neighbors": {},
         "fill-color": ""
     },
+    "XK": {
+        "name": "Kosovo",
+        "neighbors": [],
+        "fill-color": ""
+    },
     "KW": {
         "name": "Kuwait",
         "neighbors": {},
@@ -799,6 +799,11 @@
         "neighbors": {},
         "fill-color": ""
     },
+    "SI": {
+        "name": "Slovenia",
+        "neighbors": [],
+        "fill-color": ""
+    },
     "SB": {
         "name": "Solomon Islands",
         "neighbors": {},
@@ -959,6 +964,11 @@
         "neighbors": {},
         "fill-color": ""
     },
+    "VA": {
+        "name": "Vatican City",
+        "neighbors": [],
+        "fill-color": ""
+    },
     "VE": {
         "name": "Venezuala",
         "neighbors": ["BR", "CO", "GY"],
@@ -984,5 +994,4 @@
         "neighbors": {},
         "fill-color": ""
     }
-
 }
