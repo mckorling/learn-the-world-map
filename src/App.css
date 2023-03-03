@@ -4,8 +4,9 @@
     color: #fff;
 }
 
-.world {
-    
+svg {
+    width: 80%;
+    overflow: scroll;
 }
 
 .st2 {

@@ -5,12 +5,13 @@ import WorldMap from './components/WorldMap';
 function App() {
 
   const countryCodes = Object.keys(countriesData);
-  const countryCodesSet = new Set(countryCodes)
-  console.log(`object: ${countryCodes.length}`)
-  console.log(`set: ${countryCodesSet.size}`)
+  // const countryCodesSet = new Set(countryCodes)
+  // console.log(`object: ${countryCodes.length}`)
+  // console.log(`set: ${countryCodesSet.size}`)
+  // console.log("start")
 
   const chooseStartCountry = () => {
-    const randomIndex = Math.floor(Math.random() * 197);
+    const randomIndex = Math.floor(Math.random() * 199);
     return countryCodes[randomIndex];
   }
 
@@ -25,7 +26,7 @@ function App() {
 
     while (queue.length > 0) {
       const current = queue.shift();
-      if (!visited.has(current)) { // might not need this if statement
+      if (!visited.has(current)) {
         visited.add(current)
         gameOrder.push(current)
         const neighbors = shuffleArray(countriesData[current]["neighbors"]);
@@ -36,11 +37,12 @@ function App() {
     }
     return gameOrder;
   }
+
   // const gameOrder = setGameOrder();
   // console.log(`gameOrder: ${gameOrder}`)
-  // // console.log(countries)
+  // console.log(`length: ${gameOrder.length}, set size: ${new Set(gameOrder).size}`)
   // console.log("end")
-
+  
   return (
     <div className="App">
       <h1>Learn the World Map</h1>
