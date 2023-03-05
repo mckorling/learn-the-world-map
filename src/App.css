@@ -4,11 +4,23 @@
     color: #fff;
 }
 
-svg {
-    width: 80%;
-    overflow: scroll;
+.world {
+    width: fit-content;
 }
 
 .st2 {
     fill: red;
 }
+
+/* colors {
+    light-beige: #fefae0;
+    light-brown: #d4a373;
+    orange-brown: #bc6c25;
+    light-green: #ccd5ae;
+    light-army-green: #a3b18a;
+    army-green: #606c38;
+    med-green: #3a5a40;
+    dark-green: #283618
+
+
+} */
